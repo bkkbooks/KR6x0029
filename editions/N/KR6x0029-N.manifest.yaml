@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR6x0029/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0029/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 發趣論
+  identifiers:
+    krp: KR6x0029
+    cbeta: N54n0029
+    cbeta_old_id: N54n0029
+    authorityid: CA0008293
+    json_key: N0029
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N54/N54n0029.xml
+    old_id: N54n0029
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0029_001-N.yaml, hash: 'sha256:3dda36b60c23dc3a72dd5ca848377aacd5099fbb95816e0c929d840b806db64d'}
+  - {seq: 2, filename: KR6x0029_002-N.yaml, hash: 'sha256:4378f253dcedd8ae8fcd71dd6013d42ba8380d1e7c973c2da1fd94f32138eabf'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0029_001-N.markers.yaml, hash: 'sha256:34704ef36fe91a4ea55c46c2fc5edac5d060695bb1eb23351319c85de60d3646'}
+  - {seq: 2, role: markers, filename: assets/KR6x0029_002-N.markers.yaml, hash: 'sha256:996b85fdd058c8bc3ac9478cfb51d2f48d839ad74945860989821471c7b36919'}
+table_of_contents: []
+hash: sha256:549481c0c2a8111e15c59b72344032b770454515e9a35699a2727aa7aba43b4d
